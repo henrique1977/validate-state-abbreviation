@@ -1,0 +1,16 @@
+{
+  "name": "validate-state-abbreviation",
+  "version": "1.0.0",
+  "description": "Validates the 2 digit state code, given a country code",
+  "license": "MIT",
+  "repository": "henrique1977/validate-state-abbreviation",
+  "main": "index.js",
+  "keywords": [
+    "state",
+    "npm",
+    "package",
+    "abbreviation",
+    "country",
+    "postal"
+  ]
+}
